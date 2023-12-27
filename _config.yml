@@ -1,3 +1,3 @@
-# add the following to _config.yml file
-title: Suryakumar (Surya) Mane
-theme: jeykll-theme-minimal
+title: Suryakumar Mane's Portfolio
+description: Showcase of my education, work experience, projects, and skills.
+theme: jekyll-theme-minimal
